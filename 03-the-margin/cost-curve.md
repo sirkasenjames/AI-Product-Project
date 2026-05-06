@@ -1,5 +1,17 @@
 # Cost Curve & Pricing Strategy
 
+## Packaging Strategy
+
+| Feature | Description | 
+|----------|-----------------|
+| Leader Feature | |
+| Filler Feature | |
+| Killer Feature | |
+
+| Killer Usage % | Bundle or Add-On | 
+|----------|-----------------|
+| | |
+
 ## Cost Model
 
 | Cost Category | Per-User/Month | Notes |
