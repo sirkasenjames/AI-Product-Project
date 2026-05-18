@@ -40,21 +40,33 @@
 
 ## Killer Memo
 
-> You run AI at **[OpenAI / Google / Apple]**. Your OKR: make this product irrelevant.
+> You run AI at **Google**. Your OKR: make this product irrelevant.
 >
 > **3-sentence memo:**
 >
-> 1. Attack: Launch an all-in-one Gemini-powered platform called Googlepreneur (for solopreneurs who are spread thin and overwhelmed managing multiple tools to connect their workflows) that eliminates the need for multiple subscriptions/integrations by connecting all their existing single product tools under one roof to streamline administration, documentation, client management, financial management, marketing, sales, communication, and retail technology / security -- all in one place.
-> 2. Wedge: The user sign-up process streamlines integrating and granting access to Google's full suite of products with a single click in 60 seconds or less, empowering the user with a workspace -- featuring a sidebar menu, organizational tabs, dashboard console, and split-screen / multi-panel functionality -- that negates needing multiple tabs / websites open for workflow execution.  
-> 3. Why users switch: Small business owners who launch their vision through Googlepreneur gives them a free business number and domain, $500 credit and forever discount pricing and priority performance through Google Ads, plus extra Google Profile features and priority local search/map visibility. Also, small business owners who are current users of Gmail and other Google products (i.e. Drive, Meet, Ads, Analytics, etc.) will have greater baseline working knowledge of connected tools and thus a minimal learning curve compared to adopting new (or more complex) platform(s).
+### Approach A
+> 
+> Attack: Integrate Gemini-powered scheduling directly into Google Calendar, Gmail, Search, Maps, and Google Business Profile so users can naturally book or reschedule appointments through prompts like “find me the next available tattoo session after work next week” without opening a separate booking app or navigating traditional scheduling flows.
+> 
+> Wedge: Logged-in users can instantly discover, message, book, and reschedule appointments directly within Google’s existing ecosystem — where their calendar, reminders, email, maps, and business discovery already live.
+> 
+> Why users switch: AI scheduling feels native, instant, trusted, and free because Google already owns the customer discovery funnel, calendar infrastructure, reminders, and communication layer — eliminating the need for separate booking software.
+>
+> 
+### Approach B
+> 
+> Attack: Launch “Google Workspace for Solopreneurs,” bundling AI booking, calendar management, reminders, payments, Google Business Profile management, Search Console, and Google Ads into a unified workspace designed specifically for service-based sole proprietors.
+> 
+> Wedge: Participating businesses receive enhanced local search and Maps visibility while customers can discover, message, schedule, and pay businesses entirely within Google’s ecosystem.
+> 
+> Why users switch: Google combines customer acquisition, appointment management, communication, payments, and business operations in one place — eliminating the need for solopreneurs to manage and pay for multiple disconnected tools and subscriptions.
 
 ---
 
 ## Top Vulnerability
 <!-- One line: what's the single biggest strategic risk? -->
-Bookerful isn't a proprietary product, or the type of product that doesn't exist yet. It's a product that seeks to optimize UX and streamline workflows and optimize UX that bigger small business management platforms don't realize are an issue or don't feel pressure to fix. There's nothing stopping leading market players from addressing their own UX and workflows.
+AI scheduling alone is becoming a feature, not a standalone moat.
 
 ## Confidence Level
 <!-- H / M / L — how confident are you in this bet after the diagnostic? -->
 Medium
-
